@@ -1,11 +1,11 @@
 # 🍽️ Food Roulette 
-Food Roulette — это веб-приложение, которое помогает пользователю выбрать, где поесть, с помощью игровой рулетки.
+Food Roulette is a web application that helps users decide where to eat by turning the choice into a fun roulette game.
 
 ## 🚀 Features
-- 🎲 Случайный выбор еды
-- 📍 Поиск ресторанов рядом (геолокация)
-- 📜 История выборов
-- 🎨 Красивый UI (Tailwind)
+- 🎲 Random food selection
+- 📍 Nearby restaurant search (geolocation)
+- 📜 Selection history
+- 🎨 Clean UI with Tailwind CSS
 
 ## 🛠️ Technologies
 - HTML
@@ -14,9 +14,9 @@ Food Roulette — это веб-приложение, которое помог�
 - Overpass API
 
 ## ▶️ How to run
-Просто открой `index.html` в браузере.
+Simply open `index.html` in your browser.
 
-## 🌍 Future improvements
-- AI рекомендации
-- Фильтры (цена, кухня)
-- Интеграция с Google Maps
+## 🌍 Future Improvements
+- AI-based recommendations
+- Filters (price, cuisine)
+- Integration with Google Maps
